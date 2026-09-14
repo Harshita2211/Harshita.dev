@@ -28,7 +28,7 @@ This portfolio highlights my work as a final-year IT student, including my key p
 - JavaScript
 
 **Deployment**
-- Netliy
+- Netlify
 
 **Development Approach**
 - Built using an AI-assisted "vibe coding" workflow with GitHub Copilot, pairing rapid iteration with hands-on design and architecture decisions
