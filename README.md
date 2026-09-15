@@ -6,7 +6,7 @@ A personal portfolio website showcasing my projects, skills, and internship expe
 
 ## 🔗 Live Site
 
-https://graceful-caramel-e4cb7c.netlify.app/
+https://steady-lamington-a08193.netlify.app/
 
 ## Overview
 
